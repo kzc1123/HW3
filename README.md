@@ -26,7 +26,8 @@ This repository includes the five automated test cases assigned to me from my te
 
 ## Professional Javadoc Inspiration
 
-I modeled my Javadoc formatting after the official Java documentation for [`PriorityBlockingQueue`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/PriorityBlockingQueue.html), which clearly explains class functionality, usage, and method-level behavior in a clean, readable format. This inspired me to adopt consistent formatting, detailed descriptions, and clarity in my own Javadocs.
+I modeled my Javadoc formatting after the official Java documentation for 
+PriorityBlockingQueue (https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/concurrent/PriorityBlockingQueue.html), which clearly explains class functionality, usage, and method-level behavior in a clean, readable format. This inspired me to adopt consistent formatting, detailed descriptions, and clarity in my own Javadocs.
 
 ---
 

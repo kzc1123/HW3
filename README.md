@@ -1,3 +1,30 @@
+# HW3 - Automated Testing & Javadoc Documentation
+
+## 📚 Overview
+
+This project is the third homework assignment for **CSE 360: Software Engineering** at Arizona State University. The goal of HW3 is to practice writing automated tests, become familiar with Javadoc documentation, and optionally begin exploring JUnit.
+
+Each student is responsible for implementing and documenting five automated tests based on the team’s TP2 submission, as well as producing professional-level internal documentation and screencasts that showcase the tests and their results.
+
+---
+
+## 🧪 Assigned Test Cases
+
+This repository includes the five automated test cases assigned to me from my team’s TP2 submission. Each test has been implemented in a standalone mainline format and is designed to validate specific functionalities using consistent validation logic.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Java 17+**
+- **Manual Test Mainlines (JUnit optional)**
+- **Javadoc**
+- **Screencast (Voice-over with code walkthrough)**
+
+---
+
+## 📂 Project Structure
+
 
 ---
 

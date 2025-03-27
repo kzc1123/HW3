@@ -30,9 +30,9 @@ I modeled my Javadoc formatting after the official Java documentation for [`Prio
 
 ---
 
-## Repository & Resources
+## Repository 
 
-- [HW3 Source Code (GitHub)]()  
+- HW3 Source Code: https://github.com/kzc1123/HW3.git  
 
 ---
 

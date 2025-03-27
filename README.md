@@ -13,7 +13,6 @@ This repository includes the five automated test cases assigned to me from my te
 -  Created detailed Javadoc comments for all relevant classes and methods.
 -  Generated professional level Javadoc HTML output.
 -  Recorded a screencast walkthrough of the test logic, execution, and documentation.
--  Linked all materials in a PDF for submission (including GitHub and screencast links).
 
 ---
 
